@@ -59,10 +59,10 @@ This doesn't take into account the work done in forks, organizations, or private
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.facebook.com/bend.it.like.ketki/{:target="_blank"}
-[2]: http://www.twitter.com/benditlikeketki{:target="_blank"}
-[3]: https://www.linkedin.com/in/ketki-ambekar/{:target="_blank"}
-[4]: https://ketkiambekar.com/{:target="_blank"}
+[1]: https://www.facebook.com/bend.it.like.ketki/
+[2]: http://www.twitter.com/benditlikeketki
+[3]: https://www.linkedin.com/in/ketki-ambekar/
+[4]: https://ketkiambekar.com/
 [5]: mailto:ambekar.ketki@gmail.com
-[6]: https://dev.to/ketkiambekar{:target="_blank"}
-[7]: http://www.github.com/ketkiambekar{:target="_blank"}
+[6]: https://dev.to/ketkiambekar
+[7]: http://www.github.com/ketkiambekar
