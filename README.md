@@ -24,13 +24,13 @@ This doesn't take into account the work done in forks, organizations, or private
 
 ### Social Media
 
-[![alt text][1.1]][1]{:target="_blank"}
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-[![alt text][7.1]][7]
+[![Facebook][1.1]][1]
+[![Twitter][2.1]][2]
+[![Linkedin][3.1]][3]
+[![Website][4.1]][4]
+[![Email][5.1]][5]
+[![Dev.io][6.1]][6]
+[![Github][7.1]][7]
 
 
 <!-- links to social media icons -->
