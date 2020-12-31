@@ -38,7 +38,7 @@ This doesn't take into account the work done in forks, organizations, or private
 
 <!-- icons with padding -->
 
-[1.1]: https://ibb.co/PGS6Bkk (Facebook)
+[1.1]: https://i.imgur.com/lYFQaTO.png (Facebook)
 [2.1]: https://ibb.co/Hg6D9HQ (Twitter)
 [3.1]: https://ibb.co/wRLvTz0 (Linkedin)
 [4.1]: https://ibb.co/b6dW8xD (Website)
