@@ -24,7 +24,7 @@ This doesn't take into account the work done in forks, organizations, or private
 
 ### Social Media
 
-[![alt text][1.1]][1]
+[![alt text][1.1]][1]{:target="_blank"}
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
@@ -38,13 +38,21 @@ This doesn't take into account the work done in forks, organizations, or private
 
 <!-- icons with padding -->
 
-[1.1]: https://i.ibb.co/QjNThwW/facebook-f-brands-2.png (Facebook)
-[2.1]: https://i.ibb.co/JKd14fM/twitter-brands-1.png (Twitter)
-[3.1]: https://i.ibb.co/tYKWHYk/linkedin-brands-1.png (Linkedin)
-[4.1]: https://i.ibb.co/c2mvx6q/link-solid-1.png (Website)
-[5.1]: https://i.ibb.co/ynzByWR/envelope-solid-1.png (Email)
-[6.1]: https://i.ibb.co/bsN2wYd/dev-brands-1.png (Dev)
-[7.1]: https://i.ibb.co/wsc4spM/github-brands-1.png (Github)
+[1.1]: https://i.ibb.co/xSyhNZ2/facebook-f-brands-3.png (Facebook)
+[2.1]: https://i.ibb.co/JH8SLwp/twitter-brands-2.png (Twitter)
+[3.1]: https://i.ibb.co/9Hm0z6f/linkedin-brands-2.png (Linkedin)
+[4.1]: https://i.ibb.co/Qj8nL7d/link-solid-3.png (Website)
+[5.1]: https://i.ibb.co/zZh0YKm/envelope-solid-2.png (Email)
+[6.1]: https://i.ibb.co/djQx74k/dev-brands-2.png (Dev)
+[7.1]: https://i.ibb.co/whmTDdy/github-brands-2.png (Github)
+
+
+
+
+
+
+
+
 
 
 
