@@ -56,5 +56,5 @@ This doesn't take into account the work done in forks, organizations, or private
 [3]: https://www.linkedin.com/in/ketki-ambekar/
 [4]: https://ketkiambekar.com/
 [5]: mailto:ambekar.ketki@gmail.com
-[6]: http://www.github.com/ketkiambekar
-[7]: https://dev.to/ketkiambekar
+[6]: https://dev.to/ketkiambekar
+[7]: http://www.github.com/ketkiambekar
