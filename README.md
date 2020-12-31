@@ -44,7 +44,7 @@ This doesn't take into account the work done in forks, organizations, or private
 [4.1]: https://ibb.co/b6dW8xD (Website)
 [5.1]: https://ibb.co/tMkLxRg (Email)
 [6.1]: https://ibb.co/bHBkLXn (Dev)
-[7.1]: https://ibb.co/7kHPSrV (Github)
+[7.1]: https://i.ibb.co/Z235fcK/github-brands.png (Github)
 
 
 
