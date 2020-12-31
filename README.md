@@ -17,3 +17,6 @@
 This doesn't take into account the work done in forks, organizations, or private repos.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ketkiambekar&show_icons=true)
+
+### My Profile Views
+![Profile views](https://gpvc.arturio.dev/ketkiambekar)
