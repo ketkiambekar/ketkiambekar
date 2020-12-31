@@ -38,13 +38,13 @@ This doesn't take into account the work done in forks, organizations, or private
 
 <!-- icons with padding -->
 
-[1.1]: https://i.imgur.com/lYFQaTO.png (Facebook)
-[2.1]: https://ibb.co/Hg6D9HQ (Twitter)
-[3.1]: https://ibb.co/wRLvTz0 (Linkedin)
-[4.1]: https://ibb.co/b6dW8xD (Website)
-[5.1]: https://ibb.co/tMkLxRg (Email)
-[6.1]: https://ibb.co/bHBkLXn (Dev)
-[7.1]: https://i.ibb.co/Z235fcK/github-brands.png (Github)
+[1.1]: https://i.ibb.co/QjNThwW/facebook-f-brands-2.png (Facebook)
+[2.1]: https://i.ibb.co/JKd14fM/twitter-brands-1.png (Twitter)
+[3.1]: https://i.ibb.co/tYKWHYk/linkedin-brands-1.png (Linkedin)
+[4.1]: https://i.ibb.co/c2mvx6q/link-solid-1.png (Website)
+[5.1]: https://i.ibb.co/ynzByWR/envelope-solid-1.png (Email)
+[6.1]: https://i.ibb.co/bsN2wYd/dev-brands-1.png (Dev)
+[7.1]: https://i.ibb.co/wsc4spM/github-brands-1.png (Github)
 
 
 
