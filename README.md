@@ -50,6 +50,7 @@ This doesn't take into account the work done in forks, organizations, or private
 [7.1]: https://i.ibb.co/whmTDdy/github-brands-2.png (Github)
 
 
+<br><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hbqvefxxqmzm6odrlkgecay&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
