@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Ketki Ambekar
-###### ***Data Science Graduate Student*** | ***Machine Learning, Deep Learning and NLP Enthusiast***
+###### ***Data Science Graduate Student*** | ***Machine Learning, Deep Learning and NLP Engineer***
 
 I'm currently in process of doing some Machine Learning/ Deep Learning Projects. <br>
 Please feel free to reach out for project collaboration. 
