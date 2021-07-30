@@ -52,7 +52,7 @@ This doesn't take into account the work done in forks, organizations, or private
 
 <br><br>
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hbqvefxxqmzm6odrlkgecay&cover_image=false&theme=default)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hbqvefxxqmzm6odrlkgecay&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
