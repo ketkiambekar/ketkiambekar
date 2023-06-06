@@ -22,7 +22,7 @@ This doesn't take into account the work done in forks, organizations, or private
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ketkiambekar&theme=vue&show_icons=true)
 
 ### Hackathons
-![Check out my DevPost Profile](https://devpost.com/ketkiambekar)
+[Check out my DevPost Profile](https://devpost.com/ketkiambekar)
 
 ### Social Media
 
