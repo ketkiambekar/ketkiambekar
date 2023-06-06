@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Ketki Ambekar
-###### ***Data Science Graduate Student*** | ***Machine Learning, Deep Learning and NLP Engineer***
+###### ***Senior Software Engineer***
 
 I'm currently in process of doing some Machine Learning/ Deep Learning Projects. <br>
 Please feel free to reach out for project collaboration. 
@@ -20,10 +20,6 @@ Please feel free to reach out for project collaboration.
 This doesn't take into account the work done in forks, organizations, or private repos.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ketkiambekar&theme=vue&show_icons=true)
-
-### Profile Views
-![Profile views](https://gpvc.arturio.dev/ketkiambekar)
-
 
 ### Social Media
 
