@@ -15,14 +15,15 @@ Please feel free to reach out for project collaboration.
 * Libraries: Scikit-learn, matplotlib, tensorflow, keras, numPy, Pandas, etc. 
 * HPC: Hadoop, MapReduce, Hbase
 
+### Hackathons
+[Check out my DevPost Profile](https://devpost.com/ketkiambekar)
+
 ### GitHub stats
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ketkiambekar&theme=vue&show_icons=true)
 
-### Hackathons
-[Check out my DevPost Profile](https://devpost.com/ketkiambekar)
 
 ### Social Media
 
